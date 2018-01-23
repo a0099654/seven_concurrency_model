@@ -1,3 +1,5 @@
+// This counting class is with race condition
+// Relative timing of operations
 public class Counting {
     public static void main(String[] args) throws InterruptedException {
         class Counter {
